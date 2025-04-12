@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Application\FinBuddy360.Application\FinBuddy360.Application.csproj" />
+    <ProjectReference Include="..\..\Domain\FinBuddy360.Domain\FinBuddy360.Domain.csproj" />
+    <ProjectReference Include="..\..\Shared\FinBuddy360.Shared\FinBuddy360.Shared.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

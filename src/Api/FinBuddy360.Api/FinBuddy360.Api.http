@@ -1,0 +1,6 @@
+@FinBuddy360.Api_HostAddress = http://localhost:5030
+
+GET {{FinBuddy360.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

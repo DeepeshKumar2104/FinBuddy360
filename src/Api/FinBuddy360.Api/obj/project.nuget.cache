@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l7KdiFShoog=",
+  "success": true,
+  "projectFilePath": "D:\\FinBuddy360\\src\\Api\\FinBuddy360.Api\\FinBuddy360.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
